@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Forum des associations 2026",
+    "date": "2026-09-01",
+    "description": "Comme chaque année, Majosol sera présente au forum des associations de Meyzieu. Venez nous rencontrer pour découvrir notre association d'échange de services !",
+    "location": "Meyzieu"
+  },
+  {
+    "id": "2",
+    "name": "Apéritif de rentrée",
+    "date": "2026-09-15",
+    "description": "Apéritif convivial pour se retrouver après l'été et accueillir les nouveaux adhérents. Chacun apporte quelque chose à partager.",
+    "location": "Meyzieu"
+  },
+  {
+    "id": "4",
+    "name": "Soirée galette des rois 2023",
+    "date": "2023-01-11",
+    "description": "Les adhérent.e.s de Majosol se sont réuni.e.s pour partager les succulentes galettes et s'échanger les traditionnels voeux. Belle occasion pour faire connaissance des nouveaux membres et pour revoir les anciens !",
+    "location": "Meyzieu"
+  },
+  {
+    "id": "5",
+    "name": "Journée festive à l'Iloz",
+    "date": "2023-07-02",
+    "description": "Nos adhérents se sont retrouvés pour une journée festive à l'Iloz (Grand Parc de Miribel-Jonage). Placée sous le signe de la bonne humeur, cet évènement a été une réussite aux dires de tous ! Après avoir dégusté les délicieux plats confectionnés par chacun, nous avons joué aux jeux et même dansé !",
+    "location": "Grand Parc de Miribel-Jonage"
+  },
+  {
+    "id": "6",
+    "name": "Soirée cinéma",
+    "date": "2023-04-27",
+    "description": "37 adhérent.e.s à nous répartir dans les 3 salles du ciné Meyzieu. Au programme : \"l'établi\", \"La vie pour de vrai\" ou \"10 jours encore sans maman\". Un buffet constitué des plats confectionnés par chacun nous attendait pour nous permettre de prolonger les échanges.",
+    "location": "Ciné Meyzieu"
+  },
+  {
+    "id": "7",
+    "name": "Fête des Lumières",
+    "date": "2022-12-09",
+    "description": "Comme chaque année, Majosol Meyzieu était présent pour proposer une petite restauration. Immense merci aux adhérent.e.s qui nous ont aidé !",
+    "location": "Meyzieu"
+  },
+  {
+    "id": "8",
+    "name": "Forum des associations 2022",
+    "date": "2022-09-03",
+    "description": "Vous étiez nombreuses et nombreux à venir nous rencontrer au Forum des associations ! Bienvenue aux nouvelles et nouveaux adhérent.e.s !",
+    "location": "Meyzieu"
+  },
+  {
+    "id": "9",
+    "name": "Apéritif convivial",
+    "date": "2022-03-22",
+    "description": "Quel plaisir de se retrouver enfin autour d'un verre, de se donner des nouvelles ou de faire connaissance en dégustant les petits plats partagés ! Pour ce 1er évènement organisé par la nouvelle présidente Agnès Froment et son bureau, une nouveauté : pour tout parrainage, le parrain et le nouvel adhérent se verront offrir un petit cadeau \"fait maison\" !",
+    "location": "Meyzieu"
+  },
+  {
+    "id": "10",
+    "name": "Pique-nique à la chèvrerie d'Eve",
+    "date": "2019-09-21",
+    "description": "Les adhérent-e-s de MAJOSOL étaient invité-e-s à un pique-nique original : à la chèvrerie d'Eve ! Outre un pique-nique partagé toujours convivial et pantagruélique, nous avons pu visiter la chèvrerie pédagogique et approcher divers animaux. La fin d'après-midi a été animée grâce à différents jeux.",
+    "location": "Chèvrerie d'Eve"
+  }
+]

@@ -1,0 +1,182 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Palette douce inspirée du logo Majosol - Rouge adapté et apaisant */
+    --background: 0 0% 100%;
+    --foreground: 220 15% 20%;
+    --card: 0 0% 100%;
+    --card-foreground: 220 15% 20%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 15% 20%;
+    
+    /* Primary: Rouge du logo mais adouci - 55% de saturation au lieu de 75% */
+    --primary: 0 55% 58%;
+    --primary-foreground: 0 0% 100%;
+    
+    /* Secondary: Rouge très doux pour les backgrounds */
+    --secondary: 0 20% 98%;
+    --secondary-foreground: 0 55% 45%;
+    
+    /* Muted: Gris très doux */
+    --muted: 0 10% 98%;
+    --muted-foreground: 220 10% 45%;
+    
+    /* Accent: Rouge légèrement plus vif mais toujours doux */
+    --accent: 0 50% 62%;
+    --accent-foreground: 0 0% 100%;
+    
+    --destructive: 0 65% 55%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 0 15% 94%;
+    --input: 0 10% 98%;
+    --ring: 0 55% 58%;
+    --radius: 0.75rem;
+    --chart-1: 0 55% 58%;
+    --chart-2: 0 50% 62%;
+    --chart-3: 0 45% 65%;
+    --chart-4: 0 40% 68%;
+    --chart-5: 0 35% 70%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground antialiased;
+  }
+}
+
+@layer utilities {
+  .gradient-primary {
+    background: linear-gradient(135deg, hsl(0 55% 58%) 0%, hsl(0 50% 55%) 100%);
+  }
+  
+  .gradient-soft {
+    background: linear-gradient(135deg, hsl(0 20% 99%) 0%, hsl(0 15% 97%) 100%);
+  }
+  
+  .text-gradient {
+    background: linear-gradient(135deg, hsl(0 55% 58%) 0%, hsl(0 50% 55%) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .shadow-soft {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  }
+  
+  .shadow-primary {
+    box-shadow: 0 8px 30px rgba(220, 80, 80, 0.12);
+  }
+  
+  /* Animations */
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes scaleIn {
+    from {
+      opacity: 0;
+      transform: scale(0.9);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  
+  @keyframes float {
+    0%, 100% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+  
+  .animate-fade-in-up {
+    animation: fadeInUp 0.6s ease-out forwards;
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 0.8s ease-out forwards;
+  }
+  
+  .animate-scale-in {
+    animation: scaleIn 0.5s ease-out forwards;
+  }
+  
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+  
+  .delay-100 {
+    animation-delay: 0.1s;
+  }
+  
+  .delay-200 {
+    animation-delay: 0.2s;
+  }
+  
+  .delay-300 {
+    animation-delay: 0.3s;
+  }
+}
+
+/* Styles pour le contenu HTML des articles */
+.prose-red {
+  --tw-prose-headings: hsl(220 15% 20%);
+  --tw-prose-body: hsl(220 10% 45%);
+  --tw-prose-links: hsl(0 55% 58%);
+  --tw-prose-bold: hsl(220 15% 20%);
+  --tw-prose-code: hsl(0 55% 58%);
+}

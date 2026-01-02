@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://majosol.fr/sitemap.xml
+
+# Disallow admin pages (if any)
+Disallow: /admin/
+Disallow: /api/
+

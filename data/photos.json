@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "url": "/images/articles/partager_les_succulentes_galettes.jpg",
+    "title": "Soirée galette des rois 2023",
+    "description": "Moment convivial autour de la galette des rois avec les adhérents de Majosol. Partage des succulentes galettes et échange des traditionnels voeux.",
+    "category": "Événements",
+    "eventName": "Soirée galette 2023"
+  },
+  {
+    "id": "2",
+    "url": "/images/gallery/forum-1.jpg",
+    "title": "Forum des associations 2025",
+    "description": "Stand Majosol au forum des associations de Meyzieu. Présentation de notre association d'échange de services aux habitants de la ville.",
+    "category": "Événements",
+    "eventName": "Forum 2025"
+  },
+  {
+    "id": "3",
+    "url": "/images/gallery/photo-10-ans.jpg",
+    "title": "Célébration des 10 ans de Majosol",
+    "description": "Célébration des 10 ans d'existence de Majosol. Une décennie d'entraide, de solidarité et de convivialité entre les Majolans.",
+    "category": "Événements",
+    "eventName": "10 ans Majosol"
+  },
+  {
+    "id": "4",
+    "url": "/images/articles/membres_du_bureau_AG.jpg",
+    "title": "Membres du bureau de Majosol",
+    "description": "Les membres du bureau de Majosol lors de l'assemblée générale. Le bureau s'est étoffé avec une secrétaire adjointe et une trésorière adjointe.",
+    "category": "Événements",
+    "eventName": "Assemblée générale"
+  },
+  {
+    "id": "5",
+    "url": "/images/articles/partager_les_succulentes_galettes_1.jpg",
+    "title": "Partage des galettes entre adhérents",
+    "description": "Le 11 janvier 2023, les adhérents de Majosol se sont réunis pour partager les succulentes galettes. Belle occasion pour faire connaissance des nouveaux membres et revoir les anciens !",
+    "category": "Événements",
+    "eventName": "Soirée galette 2023"
+  },
+  {
+    "id": "6",
+    "url": "/images/articles/partager_les_succulentes_galettes_2.jpg",
+    "title": "Échange des voeux de nouvelle année",
+    "description": "Échange des traditionnels voeux de nouvelle année entre les adhérents de Majosol lors de la soirée galette des rois 2023.",
+    "category": "Événements",
+    "eventName": "Soirée galette 2023"
+  },
+  {
+    "id": "7",
+    "url": "/images/articles/journee_festive_Iloz_1.jpg",
+    "title": "Journée festive à l'Iloz - Grand Parc de Miribel-Jonage",
+    "description": "Le 2 juillet 2023, nos adhérents se sont retrouvés pour une journée festive à l'Iloz. Après avoir dégusté les délicieux plats confectionnés par chacun, jeux et danses ont animé cette belle journée.",
+    "category": "Événements",
+    "eventName": "Journée Iloz 2023"
+  },
+  {
+    "id": "8",
+    "url": "/images/articles/journee_festive_Iloz_2.jpg",
+    "title": "Jeux et animations à l'Iloz",
+    "description": "Jeux proposés par Jean Kalfayan et les enfants de Stéphanie Dionot lors de la journée festive à l'Iloz. Une journée placée sous le signe de la bonne humeur !",
+    "category": "Événements",
+    "eventName": "Journée Iloz 2023"
+  },
+  {
+    "id": "9",
+    "url": "/images/articles/soiree_cinema_1.jpg",
+    "title": "Soirée cinéma au ciné Meyzieu",
+    "description": "27 avril 2023 - 37 adhérents se sont répartis dans les 3 salles du ciné Meyzieu. Au programme : \"l'établi\", \"La vie pour de vrai\" ou \"10 jours encore sans maman\".",
+    "category": "Événements",
+    "eventName": "Soirée cinéma 2023"
+  },
+  {
+    "id": "10",
+    "url": "/images/articles/soiree_cinema_2.jpg",
+    "title": "Buffet après la séance de cinéma",
+    "description": "Un buffet constitué des plats confectionnés par chacun attendait les adhérents après la séance de cinéma pour prolonger les échanges et les discussions autour des films.",
+    "category": "Événements",
+    "eventName": "Soirée cinéma 2023"
+  },
+  {
+    "id": "11",
+    "url": "/images/articles/fete_des_lumieres_1.jpg",
+    "title": "Stand Majosol à la Fête des Lumières",
+    "description": "9 décembre 2022 - Comme chaque année, Majosol Meyzieu était présent à la Fête des Lumières pour proposer une petite restauration aux Majolans.",
+    "category": "Événements",
+    "eventName": "Fête des Lumières 2022"
+  },
+  {
+    "id": "12",
+    "url": "/images/articles/fete_des_lumieres_2.jpg",
+    "title": "Petite restauration à la Fête des Lumières",
+    "description": "Petite restauration proposée par Majosol lors de la Fête des Lumières 2022. Immense merci aux adhérents qui nous ont aidé à faire de cet événement une réussite !",
+    "category": "Événements",
+    "eventName": "Fête des Lumières 2022"
+  },
+  {
+    "id": "13",
+    "url": "/images/articles/forum_associations.jpg",
+    "title": "Forum des associations 2022",
+    "description": "3 septembre 2022 - Stand Majosol au forum des associations de Meyzieu. Nombreuses et nombreux à venir nous rencontrer ! Bienvenue aux nouvelles et nouveaux adhérents !",
+    "category": "Événements",
+    "eventName": "Forum 2022"
+  },
+  {
+    "id": "14",
+    "url": "/images/articles/apretif_1.jpg",
+    "title": "Apéritif convivial de mars 2022",
+    "description": "22 mars 2022 - Quel plaisir de se retrouver enfin autour d'un verre ! Premier apéritif organisé par la nouvelle présidente Agnès Froment et son bureau. Nouveauté : cadeau \"fait maison\" pour tout parrainage !",
+    "category": "Événements",
+    "eventName": "Apéritif 2022"
+  },
+  {
+    "id": "15",
+    "url": "/images/articles/pique_nique_.jpg",
+    "title": "Pique-nique à la chèvrerie d'Eve",
+    "description": "21 septembre 2019 - Les adhérents de Majosol étaient invités à un pique-nique original à la chèvrerie d'Eve. Visite de la chèvrerie pédagogique, approche des animaux et jeux ont animé cette belle journée conviviale.",
+    "category": "Événements",
+    "eventName": "Pique-nique 2019"
+  }
+]

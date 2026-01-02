@@ -1,0 +1,135 @@
+{
+  "site": {
+    "name": "Majosol",
+    "tagline": "Association d'échange de services à Meyzieu",
+    "description": "Majosol : association d'échange de services entre voisins à Meyzieu. Entraide, solidarité et convivialité depuis 2015.",
+    "logo": "/images/logo-majosol.jpg",
+    "city": "Meyzieu",
+    "department": "Rhône",
+    "postalCode": "69330",
+    "foundedYear": 2015
+  },
+  "homepage": {
+    "hero": {
+      "backgroundImage": "/images/articles/fete-10-ans.jpg",
+      "title": "L'entraide de proximité à Meyzieu",
+      "tagline": "Si un service est gratuit, c'est forcément chez Majosol",
+      "description": "Majosol, c'est des adhérents qui s'entraident au quotidien. Un système d'échange de services basé sur les heures : vous rendez un service, vous cumulez des heures que vous pourrez utiliser pour demander de l'aide à votre tour. Un réseau de solidarité et de convivialité depuis 2015.",
+      "primaryButton": {
+        "text": "Rejoindre Majosol",
+        "link": "/contact"
+      },
+      "secondaryButton": {
+        "text": "Découvrir notre histoire",
+        "link": "/about"
+      }
+    },
+    "stats": [
+      {
+        "value": "10",
+        "label": "Ans d'existence"
+      },
+      {
+        "value": "180",
+        "label": "Adhérents"
+      },
+      {
+        "value": "8€",
+        "label": "Par an"
+      },
+      {
+        "value": "∞",
+        "label": "Services rendus"
+      }
+    ],
+    "howItWorks": {
+      "title": "Comment ça marche ?",
+      "subtitle": "Un système simple basé sur l'échange et la confiance",
+      "steps": [
+        {
+          "icon": "HandHeart",
+          "title": "Rendre un service",
+          "description": "Vous aidez un voisin selon vos compétences et disponibilités : bricolage, informatique, jardinage, trajets, garde d'animaux, couture, prêts de matériel..."
+        },
+        {
+          "icon": "Clock",
+          "title": "Comptabiliser les heures",
+          "description": "Le secrétariat tient un registre précis : si vous rendez un service de 2 heures, vous cumulez 2 heures disponibles. Ces heures peuvent être utilisées pour demander de l'aide à votre tour."
+        },
+        {
+          "icon": "Users",
+          "title": "Demander un service",
+          "description": "Quand vous avez besoin d'aide, vous postez votre demande sur notre groupe Google. Un adhérent disponible vous répond et vous rend le service. Simple, efficace et solidaire !"
+        }
+      ]
+    },
+    "news": {
+      "title": "Dernières actualités",
+      "subtitle": "Restez informés de la vie de l'association",
+      "seeAllButton": "Voir toutes les actualités"
+    },
+    "events": {
+      "title": "Prochains événements",
+      "subtitle": "Rejoignez-nous pour des moments de convivialité"
+    },
+    "cta": {
+      "title": "Rejoignez la communauté Majosol",
+      "description": "Pour seulement 8€ par an (adhésion familiale), accédez à un réseau d'entraide de proximité et participez à des moments de convivialité tout au long de l'année.",
+      "primaryButton": {
+        "text": "Adhérer maintenant",
+        "link": "/contact"
+      },
+      "secondaryButton": {
+        "text": "En savoir plus",
+        "link": "/about"
+      }
+    }
+  },
+  "navigation": {
+    "links": [
+      {
+        "text": "Qui sommes-nous",
+        "href": "/about"
+      },
+      {
+        "text": "Galerie",
+        "href": "/gallery"
+      },
+      {
+        "text": "Actualités",
+        "href": "/news"
+      },
+      {
+        "text": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "joinButton": {
+      "text": "Adhérer",
+      "href": "/contact"
+    }
+  },
+  "contact": {
+    "email": "majosol.asso.69330@gmail.com",
+    "phone": "06 99 21 12 64",
+    "phoneFormatted": "0699211264",
+    "address": "Meyzieu, Rhône (69330)",
+    "annualFee": "8 € par an (adhésion familiale)",
+    "googleMapsUrl": "https://www.google.com/maps/place/Meyzieu,+69330",
+    "googleMapsEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2783.5!2d5.0!3d45.7667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4c7c8b8b8b8b8%3A0x8b8b8b8b8b8b8b8b!2sMeyzieu%2C%2069330!5e0!3m2!1sfr!2sfr!4v1234567890",
+    "pageTitle": "Contactez-nous",
+    "pageSubtitle": "Une question ? Envie d'adhérer ? N'hésitez pas à nous écrire !",
+    "contactInfoTitle": "Nos coordonnées",
+    "formTitle": "Envoyez-nous un message",
+    "successTitle": "Message envoyé !",
+    "successMessage": "Merci pour votre message. Nous vous répondrons dans les plus brefs délais."
+  },
+  "footer": {
+    "description": "Association d'échange de services entre voisins à Meyzieu. Entraide, solidarité et convivialité depuis 2015.",
+    "quickLinksTitle": "Liens rapides",
+    "contactTitle": "Contact",
+    "copyright": "© 2024 Majosol - Association d'échange de services. Tous droits réservés.",
+    "legal": "Association loi 1901 - Meyzieu, Rhône"
+  }
+}
+
